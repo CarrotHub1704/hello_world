@@ -1,6 +1,26 @@
+body {
+	background-color: black;
+	color: white;
+	text-align: center;
+	font-family: Arial;
+	margin: 50px;
+	padding: 20px;
+}
 h1 {
-	color:  blue;
+	background-color: #303030;
+	color:  #8080FF;
 }
 p {
+	background-color: #181818;
 	text-align: center;
+}
+img {
+	border: 5px solid white;
+}
+footer{
+	position: fixed;
+	font-size: 10px;
+	color: gray;
+	bottom: 0;
+	right: 50%;
 }
